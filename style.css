@@ -1,23 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
 
+h1 {
+  font-size: larger;
+  font-weight: 800;
+  color: rgb(35, 161, 161);
+}
 
+/* default media Query screen sizes
 
-/* mobile */
+mobile
 @media (max-width: 767px) {
   
 }
 
-/* small screen */
+small screen
 @media (min-width: 768px) {
 
 }
 
 
-/* mediam screen */
+mediam screen
 @media (min-width: 992px) {
  
 }
 
-/* large screen */
+large screen
 @media (min-width: 1200px) {
 
-}
+} */
