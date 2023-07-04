@@ -1,12 +1,12 @@
-# Microverse_HTML_CSS_JS-Template
+# Awesome books
 
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="#"  alt="project">
+
   <br/>
 
-  <h3><b> Personal Portfolio!</b></h3>
+  <h3><b>Awesome books</b></h3>
 
 </div>
 
@@ -15,8 +15,8 @@
 - [📖 About the Project](#about-project)
 
   - [🛠 Built With](#built-with)
-
-    - [Key Features](#key-features)
+       - [Key Features](#key-features)
+  - [🛠 Tech Stack](#tech-stack)
 
   - [🚀 Live Demo](#live-demo)
 
@@ -31,12 +31,21 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Personal Portfolio! <a name="about-project"></a>
+# 📖 Awesome books <a name="about-project"></a>
 
-**My Personal Portfolio!**
-This is my second project with Microverse using Github professional flow and it's a porfolio website that is built in html & css, it includes my resume, basic information about me and my career, and projects I have worked on.
+**Awesome books**
+is the library website that allows users to add and remove books from the list. There is a page for a list of books and the page where you can add any book into the library. There is also contact details whenever you want to contact us.
 
-## 🛠 Built With <a name="built-with">HTML, CSS</a>
+## 🛠 Built With <a name="built-with">HTML, CSS and JavaScript</a>
+### Tech Stack <a name="tech-stack"></a>
+
+
+  <ul>
+    <li><a href="https://developer.mozilla.org/ru/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/ru/docs/Web/CSS">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/ru/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
+
 
 ### Key Features <a name="key-features">
 
@@ -48,7 +57,7 @@ This is my second project with Microverse using Github professional flow and it'
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](deployed url link)
+- [Live Demo Link](https://geekyhacks.github.io/AwesomeBook/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +67,7 @@ To get a local copy up and running, follow these steps:
 
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/AwesomeBook.git
 
 ### Prerequisites
 
@@ -72,13 +81,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
+- git clone https://github.com/GeekyHacks/AwesomeBook.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
+  git clone https://github.com/GeekyHacks/AwesomeBook.git
 
 ```
 
@@ -98,10 +107,14 @@ Must-Install-Project-with-the-Following-Programmes:
 ## 👥 Authors <a name="authors"></a>
 
 👤 **GeekyHacks**
+    **Bhekisile Jozi**
 
 - GitHub: [Geekyhacks](https://github.com/GeekyHacks)
 - Twitter: [Geekydart](https://twitter.com/GeekyDart)
 - LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
+
+- GitHub: [@githubhandle](https://github.com/bhekisile)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -115,7 +128,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/My-Personal-Portfolio/issues).
+Feel free to check the [issues page](https://github.com/GeekyHacks/AwesomeBook/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,6 +163,6 @@ Can I contribute to this project?\*\*
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/GeekyHacks/Personal-Portfolio-Microverse/blob/c94c940b573e85b888d2d3da699284214552018b/MIT.md) licensed.
+This project is [MIT](LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
